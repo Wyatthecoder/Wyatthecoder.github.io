@@ -1,4 +1,12 @@
 node_modules
-package-lock.json
+.gitpod.yml
 .vscode
 .gitattributes
+.well-known
+views/archive
+ngrok.exe
+debug.log
+views/dist/*
+src/.shutdown
+views/archive/gfiles/rarch/roms
+.idea
