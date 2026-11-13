@@ -1,3 +1,10 @@
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
-Sitemap: https://quiteafancyemerald.com
+Allow: /assets
+Allow: /assets/ico
+Disallow: /github
+Disallow: /scram
+Disallow: /uv
+ 
+Sitemap: https://invisiproxy.com/sitemap.xml
